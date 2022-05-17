@@ -1,0 +1,48 @@
+//############ Graph-1 (undirected graph)
+//8x8 matrix or Graph 
+8
+// matrix path with g(n)
+A B 3
+A H 4
+B C 4
+B H 5
+C D 8
+C G 3
+D E 2
+D F 3
+D G 8
+G F 4
+G H 2
+//start vertex A and goal is E
+A E
+//############# Graph-2
+//14x14 matrix or graph
+14
+// matrix path with g(n)
+A B 2
+A C 3
+B D 2
+B E 4
+C E 2
+C F 1
+D G 3
+D H 4
+E I 3
+F I 5
+F J 2
+H K 1
+H L 2
+I M 2
+I N 2
+//start vertex A and goal is M
+A M
+//############# Graph-3
+//4x4 matrix or graph
+4
+// matrix path with g(n)
+A B 8
+D B 1
+A D 2
+C A 7
+//start vertex B and goal is C
+B C
